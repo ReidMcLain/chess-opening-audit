@@ -1,0 +1,15 @@
+{
+  "reidmate": {
+    "Black": [
+      "d4 c5",
+      "d4 d5"
+    ],
+    "White": [
+      "e3",
+      "e4 e5 Bc4",
+      "e4 e5 Nf3 Nc6 d4",
+      "e4 e6 Nf3",
+      "e4 e6 e5"
+    ]
+  }
+}

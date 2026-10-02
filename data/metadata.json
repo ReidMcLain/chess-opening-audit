@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "version": "lichess-chess-openings@git-292fd0468068f58bb244f7fe1c3e573e493c3c53",
+  "upstream": "https://github.com/lichess-org/chess-openings",
+  "upstream_commit": "292fd0468068f58bb244f7fe1c3e573e493c3c53",
+  "upstream_commit_date": "2026-07-12",
+  "license": "CC0-1.0",
+  "files": [
+    "openings.tsv"
+  ],
+  "entry_count": 3803,
+  "eco_code_count": 500,
+  "maximum_canonical_ply": 36,
+  "runtime_sha256": "99a4bf5eb4edf39538b6975f708d75c2a3c692b57a04fd9a05d31c4ec2a75ff5",
+  "source_sha256": {
+    "a.tsv": "41722fa3d44f294357326fe2ca1b956d9e56490b30efcfa68db61114c9df7e10",
+    "b.tsv": "28d5c2dfc3329d70e85be2a149d001a59e47c2176c9d2c6594eb3be88128a3fc",
+    "c.tsv": "e90f063b3a04f5fbb24425682b13f574141a266a1ba877974cdd9c6595a3d942",
+    "d.tsv": "58cad40b886bd499717eabcce281d4bfcf00eeadbdc00552f42042cf4aac50d2",
+    "e.tsv": "f1f8494f488f660e284f23527d5acfbeccdbbc3acc76e74f05d125f39d2f8a74"
+  },
+  "generated_utc": "2026-07-14T23:44:51.057766Z",
+  "generator": "tools/build_opening_dataset.py",
+  "python_chess_version": "1.11.2"
+}

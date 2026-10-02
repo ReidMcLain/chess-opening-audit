@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "version": "synthetic-test-v1",
+  "upstream": "synthetic fixtures",
+  "license": "CC0-1.0",
+  "files": [
+    "openings.tsv"
+  ],
+  "entry_count": 5
+}
